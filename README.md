@@ -19,7 +19,7 @@ This project aims to detect fraudulent transactions in credit card data using ma
 ### Installing
 
 1. Clone the repository:
-git clone https://github.com/your-username/credit_card_fraud_detection.git
+https://github.com/SankethCT/Credit-Card-Fraud-Detection-Using-Machine-Learning.git
 
 2. Navigate to the project directory:
 cd credit_card_fraud_detection
@@ -39,7 +39,6 @@ cd credit_card_fraud_detection
 ### Executing Program
 
 1. Open a Jupyter Notebook:
-
 
 2. Open the `credit_card_fraud_detection.ipynb` notebook.
 
