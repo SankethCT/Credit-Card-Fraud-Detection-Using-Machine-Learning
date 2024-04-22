@@ -24,8 +24,10 @@ https://github.com/SankethCT/Credit-Card-Fraud-Detection-Using-Machine-Learning.
 2. Navigate to the project directory:
 cd credit_card_fraud_detection
 
+3.Obtain the dataset from the source:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-3. Install the required Python packages using pip:
+4. Install the required Python packages using pip:
 
     Python 3.x
     Jupyter Notebook
